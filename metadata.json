@@ -1,0 +1,6 @@
+{
+  "name": "GroundOps - Intel Expense Tracker",
+  "description": "Mobile-first real-time field expense tracking and consolidated budget management for ground intelligence operations (2–18 Oct 2026).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
